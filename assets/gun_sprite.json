@@ -1,0 +1,20 @@
+{"frames": [
+
+{
+	"filename": "finalgame_gun.png",
+	"frame": {"x":0,"y":0,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "gun_sprite.png",
+	"format": "RGBA8888",
+	"size": {"w":32,"h":32},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ae46228c087707306152e76e13f09058:6a98d27b1571354908b7736444894a59:0c2d2b304fa5b7c7f590e15f16efac39$"
+}
+}
